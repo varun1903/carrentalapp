@@ -4,10 +4,13 @@
 This project is a full-stack Car Rental web application designed to allow users to book vehicles and manage rental services. It features a user-friendly interface for both customers and administrators, built using a combination of front-end and back-end technologies.
 
 ## Features
-- **User Authentication**: Secure login and registration system for users.
+- **User Authentication**: Secure login and registration system for users and admins.
 - **Vehicle Booking**: Users can browse available vehicles and make bookings.
-- **Admin Dashboard**: Manage vehicles, view bookings, and monitor system operations.
-- **Database Integration**: Persistent storage for users, bookings, and vehicles using MySQL.
+- **Admin Dashboard**: Manage vehicles, view bookings, manage users, and monitor system operations.
+- **Car Owners**: Owners can add and manage their vehicles in the system.
+- **Enquiries**: Users can submit enquiries, and admins can manage them.
+- **Database Integration**: Persistent storage for users, bookings, vehicles, owners, and enquiries using MySQL.
+
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
